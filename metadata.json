@@ -1,0 +1,6 @@
+{
+  "name": "Sari-Sari POS",
+  "description": "A sari-sari store application that manages inventory, tracks sales, and generates daily profit reports automatically with QR scanning and offline access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
